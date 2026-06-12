@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What violations has Sunrise Textile Manufacturing been cited for?",
+    "ground_truth": "Sunrise Textile Manufacturing has been cited for forced labor, child labor, sanctions violations, environmental violations, and wage theft. Violations span USA, UK, and Canada jurisdictions. The company has 5 active violations and critical severity findings including passport confiscation of over 4500 workers and child labor across multiple production lines.",
+    "company": "Sunrise Textile Manufacturing Co.",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "Is Sunrise Textile Manufacturing currently sanctioned?",
+    "ground_truth": "Yes. Sunrise Textile Manufacturing has two active sanctions violations in the UK reported by HMRC Border Force and listed on the UK Global Sanctions List. One involves dual-use technology exports to a sanctioned entity. Another involves financial transactions with sanctioned government entities. It also appeared on the OFAC SDN List in the USA.",
+    "company": "Sunrise Textile Manufacturing Co.",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "What is the risk level of Golden Bridge Electronics?",
+    "ground_truth": "Golden Bridge Electronics has been cited for violations including forced labor, child labor, and sanctions violations across multiple jurisdictions. The company has critical severity findings and active violations making it a high to critical risk supplier.",
+    "company": "Golden Bridge Electronics Ltd.",
+    "expected_risk_rating": "HIGH"
+  },
+  {
+    "question": "Has Pacific Rim Mining Corporation been flagged for forced labor?",
+    "ground_truth": "Pacific Rim Mining Corporation has been cited for multiple violations including forced labor. The company operates in Myanmar and has records across multiple jurisdictions. Forced labor violations include workers confined to premises and debt bondage conditions.",
+    "company": "Pacific Rim Mining Corporation",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "What jurisdictions have flagged Delta Port Logistics?",
+    "ground_truth": "Delta Port Logistics has been flagged by multiple jurisdictions. Violations appear across USA, EU, UK, Canada, and Australia border control records. The company operates under multiple variant names including Delta Logistics, Delta Port Services, and Delta Shipping Logistics.",
+    "company": "Delta Port Logistics Ltd.",
+    "expected_risk_rating": "HIGH"
+  },
+  {
+    "question": "Does Meridian Seafood Processing have any active violations?",
+    "ground_truth": "Meridian Seafood Processing has active violations on record. The company has been cited for violations in multiple jurisdictions. Active violations include critical and high severity findings that have not been resolved.",
+    "company": "MERIDIAN SEAFOOD PROCESSING",
+    "expected_risk_rating": "HIGH"
+  },
+  {
+    "question": "What child labor violations exist for Atlas Garment Factory?",
+    "ground_truth": "Atlas Garment Factory has been cited for child labor violations. Workers aged 13-15 were found employed in violation of minimum age requirements. Violations were reported across multiple jurisdictions by border control agencies.",
+    "company": "Atlas Garment Co",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "Is Nova Chemical Industries on any sanctions list?",
+    "ground_truth": "Nova Chemical Industries has sanctions violations on record. The company operates in Iran and has been flagged for transactions with sanctioned entities and export control violations. Sanctions violations are listed by multiple agencies including OFAC.",
+    "company": "Nova Chemical Industries Ltd.",
+    "expected_risk_rating": "HIGH"
+  },
+  {
+    "question": "What environmental violations has Evergreen Agricultural Exports committed?",
+    "ground_truth": "Evergreen Agricultural Exports has been cited for environmental violations including illegal discharge of industrial wastewater and improper disposal of toxic waste. Violations were reported across multiple jurisdictions with medium severity ratings.",
+    "company": "Evergreen Agricultural Exports Ltd.",
+    "expected_risk_rating": "MEDIUM"
+  },
+  {
+    "question": "How many violation records does Horizon Tech Components have?",
+    "ground_truth": "Horizon Tech Components has multiple violation records across jurisdictions. The company operates in North Korea and has been flagged for sanctions violations and other serious violations by multiple border control agencies.",
+    "company": "Horizon Tech Components Ltd.",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "What is the overall risk rating for Starlight Footwear?",
+    "ground_truth": "Starlight Footwear Manufacturing has been cited for multiple violations including child labor and environmental violations. The company has active violations across multiple jurisdictions making it a high risk supplier.",
+    "company": "Sunrise Textile Manufacturing Co.",
+    "expected_risk_rating": "HIGH"
+  },
+  {
+    "question": "Has Delta Port Logistics been cited for wage theft?",
+    "ground_truth": "Delta Port Logistics has violation records including wage theft findings. Workers were paid below minimum wage and overtime hours were systematically uncompensated. Violations were reported by multiple border control agencies.",
+    "company": "Delta Port Logistics Ltd.",
+    "expected_risk_rating": "MEDIUM"
+  },
+  {
+    "question": "What forced labor violations does Meridian Seafood have?",
+    "ground_truth": "Meridian Seafood Processing has been cited for forced labor violations including workers confined to premises with passports confiscated and debt bondage conditions created through recruitment fees charged to workers.",
+    "company": "MERIDIAN SEAFOOD PROCESSING",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "Are there any resolved violations for Pacific Rim Mining?",
+    "ground_truth": "Pacific Rim Mining Corporation has some resolved violations in its record alongside active ones. The presence of resolved violations indicates past compliance issues that were addressed but the company still has ongoing active violations.",
+    "company": "Pacific Rim Mining Corporation",
+    "expected_risk_rating": "HIGH"
+  },
+  {
+    "question": "What industries are most represented in the violations database?",
+    "ground_truth": "The violations database covers multiple industries including textiles, electronics, food processing, apparel, mining, agriculture, chemicals, footwear, logistics, and technology components. Companies from China, Thailand, Bangladesh, Myanmar, Brazil, Iran, Vietnam, Russia, and North Korea are represented.",
+    "company": null,
+    "expected_risk_rating": null
+  },
+  {
+    "question": "Which companies have critical severity violations?",
+    "ground_truth": "Multiple companies have critical severity violations including Sunrise Textile Manufacturing for forced labor and child labor, Pacific Rim Mining Corporation for forced labor, Atlas Garment Factory for child labor, Golden Bridge Electronics for forced labor, and Horizon Tech Components for sanctions violations.",
+    "company": null,
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "What sanctions violations does Horizon Tech Components have?",
+    "ground_truth": "Horizon Tech Components operates in North Korea and has been flagged for sanctions violations including transactions with sanctioned government entities and dual-use technology exports. The company is listed on multiple sanctions lists across jurisdictions.",
+    "company": "Horizon Tech Components Ltd.",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "Does Evergreen Agricultural Exports have any active violations?",
+    "ground_truth": "Evergreen Agricultural Exports has active violations on record including environmental violations and other findings. The company operates in Brazil and has been flagged by multiple border control agencies.",
+    "company": "Evergreen Agricultural Exports Ltd.",
+    "expected_risk_rating": "MEDIUM"
+  },
+  {
+    "question": "What is the supply chain risk for suppliers from North Korea?",
+    "ground_truth": "Horizon Tech Components from North Korea has critical supply chain risk. Companies from North Korea face blanket sanctions from USA, EU, UK, and other jurisdictions. Any supplier from North Korea should be considered extremely high risk due to sanctions exposure regardless of specific violation records.",
+    "company": "Horizon Tech Components Ltd.",
+    "expected_risk_rating": "CRITICAL"
+  },
+  {
+    "question": "Which suppliers have both labor violations and sanctions violations?",
+    "ground_truth": "Multiple suppliers have both labor and sanctions violations. Sunrise Textile Manufacturing has forced labor, child labor, and sanctions violations. Nova Chemical Industries has sanctions violations and labor-related findings. Horizon Tech Components has sanctions violations alongside other serious violations.",
+    "company": null,
+    "expected_risk_rating": "CRITICAL"
+  }
+]
