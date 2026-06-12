@@ -1,0 +1,6 @@
+.env
+data/processed/
+__pycache__/
+*.pyc
+.venv/
+chromadb/
